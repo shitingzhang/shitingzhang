@@ -1,8 +1,14 @@
 # Hi, I’m Shiting Zhang 👋
 
+## About Me
+
+### Rehabilitation and Health Informatics
+
 My background is in rehabilitation. I’m interested in how health data can help us understand the care patients receive and what happens after they leave.
 
-## A decision I changed
+## Research Note
+
+### A Decision I Changed
 
 **What does a measure of therapy time actually capture?**
 
@@ -12,7 +18,9 @@ I changed the question. **How was therapy time divided among different types of 
 
 [Read the study design](https://github.com/shitingzhang/rehab-analytics/blob/main/docs/study_design.md)
 
-## Rehab Analytics
+## Featured Project
+
+### Rehab Analytics
 
 I linked four public CMS files. The main analysis covered **938 U.S. inpatient rehabilitation facilities**. After adjusting for facility and patient mix, a higher share of group or concurrent therapy time was associated with both higher community discharge and higher readmission rates.
 
@@ -20,6 +28,8 @@ I linked four public CMS files. The main analysis covered **938 U.S. inpatient r
 
 [Explore the project](https://github.com/shitingzhang/rehab-analytics) · [See the results](https://github.com/shitingzhang/rehab-analytics#results) · [Reproduce the analysis](https://github.com/shitingzhang/rehab-analytics#reproduce-the-analysis)
 
-## What I’d like to study next
+## What I’d Like to Study Next
+
+### Length of Stay and Readmission
 
 If we could link length of stay, discharge destination, and readmission for each patient, could we tell whether earlier discharge helps explain the pattern?
