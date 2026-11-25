@@ -4,7 +4,11 @@
 
 ### Rehabilitation and Health Informatics
 
-My background is in rehabilitation. I’m interested in how health data can help us understand the care patients receive and what happens after they leave.
+I study rehabilitation, and I’m curious about what happens when a therapy session becomes a line in a clinical record. “Therapy minutes” sounds simple. I want to know who was in the room, how the session was delivered, and what actually got counted.
+
+That curiosity shapes how I work with data. In my study using public Medicare data, I kept co-treatment separate from group and concurrent therapy. Two clinicians working with one patient is a different kind of session. My rehabilitation background helped me see why the distinction mattered.
+
+I like following a question from the original records through to the results. I keep notes on where the data came from, what I changed, and why, so someone else can follow my reasoning. I’m especially interested in how we can document rehabilitation care in a way that helps the next clinician and gives researchers enough detail to study what happens after discharge.
 
 ## Research Note
 
